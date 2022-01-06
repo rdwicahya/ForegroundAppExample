@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase App</string>
+    <string name="success">Login successful! Welcome</string>
+    <string name="fail_login">Login Failed, error:</string>
+</resources>
